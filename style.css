@@ -1,1 +1,8 @@
 /* Style page */
+html {
+    background-color: darkblue;
+}
+
+p, h1 {
+    color: yellow;
+}
